@@ -174,8 +174,9 @@ const cachedeveloper = {
 
 ### 🌟 Pinned Repositories
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cachedeveloper&repo=github-readme-stats)](https://github.com/FarhadG/ui-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cachedeveloper&repo=github-readme-stats)](https://github.com/FarhadG/cachai)
+
 
 </div>
 
@@ -223,7 +224,8 @@ graph LR
 
 ## 📊 Weekly Development Breakdown
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🌍 Open Source Contributions
 
 <div align="center">
