@@ -172,12 +172,6 @@ const cachedeveloper = {
 
 <div align="center">
 
-### 🌟 Pinned Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhadg&repo=github-readme-stats)](https://github.com/FarhadG/ui-react)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhadg&repo=github-readme-stats)](https://github.com/FarhadG/cachai)
-
-
 </div>
 
 ## 📖 Latest Blog Posts & Articles
@@ -225,14 +219,6 @@ graph LR
 ## 📊 Weekly Development Breakdown
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🌍 Open Source Contributions
-
-<div align="center">
-  
-![Metrics](https://metrics.lecoq.io/cachedeveloper?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FPhoenix)
-
-</div>
 
 ## 🎨 UI/UX Design Philosophy
 
