@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Aria
+# 👋 Hello, I'm Aria.
 
 <div align="center" style="overflow-x: auto; padding-bottom: 18px;">
   <!-- Added extra padding to prevent text cutoff as seen in the screenshot -->
