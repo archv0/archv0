@@ -173,8 +173,9 @@ const cachedeveloper = {
 <div align="center">
 
 ### 🌟 Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cachedeveloper&repo=awesome-project-1&theme=aura&hide_border=true)](https://github.com/FarhadG/repo-card)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cachedeveloper&repo=innovative-solution&theme=aura&hide_border=true)](https://github.com/FarhadG/ui-react)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=nianbroken)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=nianbroken)
 
 </div>
 
