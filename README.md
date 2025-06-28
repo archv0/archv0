@@ -1,9 +1,7 @@
 # 👋 Hey there! I'm Cache Developer
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&duration=4000&pause=1000&color=9A7DFF&center=true&vCenter=true&width=800&lines=Always+Learning+Always+Creating" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=950&height=120&lines=Full-Stack+Developer+%7C+Code+Architect;Building+Tomorrow's+Solutions+Today;Always+Learning%2C+Always+Creating" alt="Typing SVG" />
 </div>
 
 
