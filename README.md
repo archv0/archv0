@@ -210,7 +210,7 @@ graph LR
     J -->|Mentor| L[Scale Global Mentorship, Open Science Initiatives]
 ```
 
-## 🏆 Certifications & Achievements
+## 🏆 Certifications & Achievements6t
 
 <div align="center">
 
@@ -230,8 +230,8 @@ graph LR
 
 <div align="center">
   
-  ![GitHub metrics](https://metrics.lecoq.io/cachedeveloper?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FNew_York)
-  
+![GitHub metrics](https://metrics.lecoq.io/cachedeveloper?template=classic&base.header=0&gists=1&lines=1&repositories=1&languages=1&activity=1&config.timezone=America%2FNew_York)
+
 </div>
 
 ## 🎨 UI/UX Design Philosophy
