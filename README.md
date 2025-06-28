@@ -168,8 +168,6 @@ const cachedeveloper = {
 
 </div>
 
-## 🚀 Featured Projects & Contributions
-
 <div align="center">
 
 </div>
