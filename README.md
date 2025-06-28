@@ -223,8 +223,7 @@ graph LR
 
 ## 📊 Weekly Development Breakdown
 
-[![Your WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 ## 🌍 Open Source Contributions
 
 <div align="center">
