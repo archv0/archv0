@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 ```typescript
-const aria = {
+const cachedeveloper = {
     pronouns: "He/Him",
     location: "🌍 Global Citizen",
     currentFocus: ["Full-Stack Development", "System Architecture", "Open Source"],
