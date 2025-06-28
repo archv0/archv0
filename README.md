@@ -173,10 +173,8 @@ const cachedeveloper = {
 <div align="center">
 
 ### 🌟 Pinned Repositories
-- [distributed-db-lab](https://github.com/cachedeveloper/distributed-db-lab) — Experimental scalable database (CRDT, raft, and formal verification)
-- [quantum-playground](https://github.com/cachedeveloper/quantum-playground) — Quantum-classical hybrid algorithm research and demos
-- [nextgen-ai-agents](https://github.com/cachedeveloper/nextgen-ai-agents) — Multi-agent LLM orchestration and autonomous research
-- [oss-leadership-toolkit](https://github.com/cachedeveloper/oss-leadership-toolkit) — Open source leadership, mentorship, and global community tools
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cachedeveloper&repo=awesome-project-1&theme=aura&hide_border=true)](https://github.com/FarhadG/repo-card)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cachedeveloper&repo=innovative-solution&theme=aura&hide_border=true)](https://github.com/FarhadG/ui-react)
 
 </div>
 
