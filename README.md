@@ -296,14 +296,14 @@ When I'm in the zone, you'll find me coding to:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/aria-khanpour-b5635b35a) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ariakh.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ariakh.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/cachedeveloper) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/cachedeveloper) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/755228225516339360) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/cachedev_) 
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cachedeveloper)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cachedeveloper)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/cachedeveloper)
 
 </div>
-
+  
 ## 💬 Let's Build Something Amazing Together!
 
 <div align="center">
