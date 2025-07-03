@@ -40,7 +40,6 @@ const archv0 = {
   <img src="https://github-readme-stats.vercel.app/api?username=archv0&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=archv0&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archv0&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
-  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=archv0&theme=github-compact&hide_border=true&area=true" width="90%" />
   
 </div>
