@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 ```typescript
-const cachedeveloper = {
+const archv0 = {
     pronouns: "He/Him",
     location: "🌍 Global Citizen",
     currentFocus: ["Full-Stack Development", "System Architecture", "Open Source"],
@@ -37,11 +37,11 @@ const cachedeveloper = {
   
 ## 📊 GitHub Analytics 📈
 
-  <img src="https://github-readme-stats.vercel.app/api?username=cachedeveloper&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cachedeveloper&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cachedeveloper&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=archv0&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=archv0&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archv0&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cachedeveloper&theme=github-compact&hide_border=true&area=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=archv0&theme=github-compact&hide_border=true&area=true" width="90%" />
   
 </div>
 
@@ -49,7 +49,7 @@ const cachedeveloper = {
 
 <div align="center">
   
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=cachedeveloper&theme=aura&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=archv0&theme=aura&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
   
 </div>
 
@@ -292,14 +292,14 @@ When I'm in the zone, you'll find me coding to:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cachedeveloper) 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/archv0) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/aria-khanpour-b5635b35a) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ariakh.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ariakh.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/755228225516339360) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/cachedev_) 
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cachedeveloper)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cachedeveloper)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/227892030112530432) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/archv0_) 
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/archv0)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@archv0)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30932188/cache)
 
 </div>
@@ -312,9 +312,9 @@ When I'm in the zone, you'll find me coding to:
 
 Whether you're looking to collaborate on an exciting project, need technical consultation, or just want to chat about the latest in tech, I'm always open to connecting with fellow developers and innovators!
 
-📧 **Business Inquiries**: [business@cachedeveloper.dev](mailto:business@cachedeveloper.dev)  
-💻 **Technical Discussions**: [tech@cachedeveloper.dev](mailto:tech@cachedeveloper.dev)  
-🤝 **Collaboration**: [collab@cachedeveloper.dev](mailto:collab@cachedeveloper.dev)  
+📧 **Business Inquiries**: [business@ariakh.com](mailto:contact@ariakh.com)  
+💻 **Technical Discussions**: [tech@ariakh.com](mailto:contact@ariakh.com)  
+🤝 **Collaboration**: [collab@ariakh.com](mailto:contact@ariakh.com)  
 
 </div>
 
@@ -329,8 +329,8 @@ Whether you're looking to collaborate on an exciting project, need technical con
 <!-- Visit Counter -->
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=cachedeveloper&color=6C63FF&style=for-the-badge)
-  [![](https://visitcount.itsvg.in/api?id=cachedeveloper&icon=10&color=6)](https://visitcount.itsvg.in)
+  ![Profile Views](https://komarev.com/ghpvc/?username=archv0&color=6C63FF&style=for-the-badge)
+  [![](https://visitcount.itsvg.in/api?id=archv0&icon=10&color=6)](https://visitcount.itsvg.in)
   
   **Thanks for visiting! Happy coding! 🚀✨**
   
