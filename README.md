@@ -339,11 +339,6 @@ Whether you're looking to collaborate on an exciting project, need technical con
   ![snake gif](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
 </div>
 
-<!-- Visit Counter -->
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=archv0&color=6C63FF&style=for-the-badge)
-  [![](https://visitcount.itsvg.in/api?id=archv0&icon=10&color=6)](https://visitcount.itsvg.in)
   
   **Thanks for visiting! Happy coding! 🚀✨**
   
