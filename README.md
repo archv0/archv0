@@ -2,7 +2,7 @@
 
 <div align="center" style="overflow-x: auto; padding-bottom: 18px;">
   <!-- Added extra padding to prevent text cutoff as seen in the screenshot -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer+%7C+Code+Architect;Building+Tomorrow's+Solutions+Today;Always+Learning%2C+Always+Creating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira&weight=600&size=28&duration=4000&pause=1000&color=FF7800&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full+Stack+Developer+%7C+Code+Architect;Building+Tomorrow's+Solutions+Today;Always+Learning%2C+Always+Creating" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
